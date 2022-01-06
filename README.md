@@ -1,9 +1,8 @@
-I'm Cave, IRL Darren Paetz. Engineering Student, Electrician, Hobbyist Programmer, Engineering Researcher.
+I'm Darren Paetz AKA Cavernesque. Engineering Student, Electrician, Hobbyist Programmer, Engineering Researcher.
 
-I'm currently designing and prototyping an open source 3D scanner with MacEwan University.
+I'm currently back in school for Electrical Engineering. Last summer, I designed and prototyped an open source 3D scanner with MacEwan University.
 
-The firmware for the scanner is being written in C++, as it is being deployed on an Arduino Uno. The software that configures the scanner and gathers data from it is
-entirely written in Python.
+You can see the details of that project in the OS3DS repository. My other public repositories are my personal programming projects.
 
 <!---
 Cavernesque/Cavernesque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
